@@ -34,5 +34,5 @@ In conclusion, this code is a basic yet important example of using Java for web-
 
 #OUTPUT
 
-<img width="1048" height="1062" alt="Image" src="https://github.com/user-attachments/assets/2b35655a-374c-4a57-b06e-4d97993ec030" />
+<img width="942" height="1070" alt="Image" src="https://github.com/user-attachments/assets/c0a5aaa1-0c73-499b-9d8b-27e461e2a3c0" />
 
